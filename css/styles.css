@@ -156,7 +156,7 @@ body.scale-cv {
 .scale-cv .education_container,
 .scale-cv .experience_container,
 .scale-cv .certificate_container {
-    gap: .80rem;
+    gap: .90rem;
 }
 
 .scale-cv .education_time,
